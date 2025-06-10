@@ -62,10 +62,5 @@ Upcoming Events:
 - `ImportError` → Reinstall dependencies  
 - Auth errors → Delete `token.json` and rerun  
 
----
 
-*No license - For personal/educational use*  
 
---- 
-
-**Minimal, functional, and straight to the point.** Let me know if you'd like any adjustments!
