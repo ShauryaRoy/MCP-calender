@@ -21,7 +21,7 @@ pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
 ### 3. Run  
 ```bash
-python calendar_fetcher.py
+python index.py
 ```
 - First run opens browser for OAuth login  
 - Saves credentials to `token.json` (auto-refreshes)  
@@ -42,7 +42,7 @@ python calendar_fetcher.py
 ## 📂 Files  
 ```
 .
-├── calendar_fetcher.py   # Main script
+├── index.py   # Main script
 ├── client_secret.json   # Google OAuth creds (DO NOT SHARE)
 └── token.json          # Auto-generated auth token
 ```
